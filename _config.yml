@@ -55,9 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Mind. The best thing we all have"
-  - text: "I put my mind into web mastery"
-  - text: "So you can put your mind into what you do best"
+  - text: "Witness true sorcery! Seriously"
+  - text: "Knowledge. A well that become deeper the more you fill"
 
 me-img: "/img/jetpacktocat.png"
 
