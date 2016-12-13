@@ -25,3 +25,6 @@ Here is some of my favourite resource for learning Javascript
 
 Actually, for Javascript, there are tonnes of resource available to learn from, so I wont be worrying about that once 
 you already started learning Javascript. Just a quick google search and you will likely find what you want
+
+
+ps: I cant wait for WebAssembly
